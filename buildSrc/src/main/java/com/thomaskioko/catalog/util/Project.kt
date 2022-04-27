@@ -1,4 +1,4 @@
-package com.thomaskioko.catalog.util
+package util
 
 import org.gradle.accessors.dm.LibrariesForLibs
 import org.gradle.api.Project
